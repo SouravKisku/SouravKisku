@@ -5,15 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravkisku&label=Profile%20views&color=0e75b6&style=flat" alt="souravkisku" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/sourav_kisku_" target="blank"><img src="https://img.shields.io/twitter/follow/sourav_kisku_?logo=twitter&style=for-the-badge" alt="sourav_kisku_" /></a> </p>
-
 - 📫 How to reach me **sourav.kisku.8@gmail.com**
 
 - ⚡ Fun fact **The term "bug" to describe a computer glitch or error has its origins in the early days of computing. In 1947, computer scientist Grace Hopper found an actual moth causing problems in the Harvard Mark II computer. She famously taped the moth into the logbook and wrote, "First actual case of bug being found." Since then, the term "debugging" has been widely used in computer science to describe the process of fixing software issues.**
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SouravKisku&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SouravKisku&theme=nord&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">🌎Connect with me:</h3>
 <p align="left">
