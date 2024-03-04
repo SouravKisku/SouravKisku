@@ -13,7 +13,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SouravKisku&theme=nord&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">🌎Connect with me:</h3>
+<h3 align="left">🌎Me on other platforms:</h3>
 <p align="left">
 <a href="https://codepen.io/souravkisku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="souravkisku" height="30" width="40" /></a>
 <a href="https://medium.com/@souravkisku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@souravkisku" height="30" width="40" /></a>
