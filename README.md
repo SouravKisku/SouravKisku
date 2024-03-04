@@ -18,9 +18,6 @@
 <h3 align="left">🌎Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/souravkisku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="souravkisku" height="30" width="40" /></a>
-<a href="https://twitter.com/sourav_kisku_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sourav_kisku_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/souravkisku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souravkisku" height="30" width="40" /></a>
-<a href="https://instagram.com/sourav_kisku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sourav_kisku" height="30" width="40" /></a>
 <a href="https://medium.com/@souravkisku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@souravkisku" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sourav_kisku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourav_kisku" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/souravkisku8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="souravkisku8" height="30" width="40" /></a>
