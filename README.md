@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravkisku&label=Profile%20views&color=0e75b6&style=flat" alt="souravkisku" /> </p>
 
 
-- 📫 How to reach me **sourav.kisku.8@gmail.com**
+- 📫 How to reach me "Link will soon be provided!"
 
 - ⚡ Fun fact **The term "bug" to describe a computer glitch or error has its origins in the early days of computing. In 1947, computer scientist Grace Hopper found an actual moth causing problems in the Harvard Mark II computer. She famously taped the moth into the logbook and wrote, "First actual case of bug being found." Since then, the term "debugging" has been widely used in computer science to describe the process of fixing software issues.**
 
