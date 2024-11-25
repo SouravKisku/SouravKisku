@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourav </h1>
-<h2 align="center">Bachelor in Computer Applications👩🏻‍💻 & I Love Trading📈</h2>
+
 <img align="right" alt="coding" src="https://qph.cf2.quoracdn.net/main-qimg-aedda63f946b0c155bae39f9cc2bd945">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravkisku&label=Profile%20views&color=0e75b6&style=flat" alt="souravkisku" /> </p>
